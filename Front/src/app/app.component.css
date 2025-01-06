@@ -3,7 +3,10 @@ header {
     padding: -10px;
     background: #02534d;
   }
-  
+  h1{
+    margin-left: 35%;
+    color: white;
+  }
   .logo {
     width: 90px;
   }
