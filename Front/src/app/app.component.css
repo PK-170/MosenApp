@@ -1,26 +1,27 @@
 
 header {
-    padding: -10px;
+    padding: 10px;
     background: #02534d;
-  }
-  h1{
-    margin-left: 35%;
-    color: white;
   }
   .logo {
     width: 90px;
   }
-  
-  .desktop_menu {
-    margin-top: 1px;
+  .logo:hover {
+    cursor: pointer;
   }
-  
+  .desktop_menu {
+    margin-top: 24px;
+  }
+  .desktop_menu ul {
+    padding: 0;
+    margin: 0;
+  }
   .desktop_menu ul li {
     list-style-type: none;
     color: white;
     display: inline-block;
     font-size: 18px;
-    margin-left: 250px;
+    margin-left: 26px;
   }
   .desktop_menu ul li:hover {
     font-size: 19px;
@@ -43,7 +44,13 @@ header {
       width: 280px;
       height: 100%;
     }
-    
+    .desktop_menu ul li {
+      display: block;
+      text-align: left;
+      margin: 0;
+      padding: 10px 0 10px 26px;
+      border-bottom: 1px solid grey;
+    }
     .menu-icon {
       display: block;
       color: white;
