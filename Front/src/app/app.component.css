@@ -13,7 +13,9 @@ header {
   .logo:hover {
     cursor: pointer;
   }
-  
+  .desktop_menu {
+    margin-top: 1px;
+  }
   
   .desktop_menu ul li {
     list-style-type: none;
