@@ -9,7 +9,9 @@ header {
   .logo:hover {
     cursor: pointer;
   }
-  
+  .desktop_menu {
+    margin-top: 24px;
+  }
   .desktop_menu ul {
     padding: 0;
     margin: 0;
