@@ -3,9 +3,7 @@ header {
     padding: 10px;
     background: #02534d;
   }
-  .logo {
-    width: 90px;
-  }
+
   .logo:hover {
     cursor: pointer;
   }
