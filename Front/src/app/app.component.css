@@ -6,7 +6,9 @@ header {
   .logo {
     width: 90px;
   }
- 
+  .logo:hover {
+    cursor: pointer;
+  }
   .desktop_menu {
     margin-top: 24px;
   }
