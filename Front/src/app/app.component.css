@@ -42,13 +42,7 @@ header {
       width: 280px;
       height: 100%;
     }
-    .desktop_menu ul li {
-      display: block;
-      text-align: left;
-      margin: 0;
-      padding: 10px 0 10px 26px;
-      border-bottom: 1px solid grey;
-    }
+   
     .menu-icon {
       display: block;
       color: white;
